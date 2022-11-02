@@ -129,6 +129,7 @@ body{
 
 .header__box-active{
     transform: translateX(0) !important;
+    display: flex !important;
 }
 
 .header__button-cancel{
