@@ -1,0 +1,799 @@
+@media(max-width: 1399px){
+    
+    .start__img-box{
+        height: 850px;
+    }
+    
+}
+
+@media(max-width: 1199px){
+    
+    .start__img-box{
+        height: 760px;
+    }
+    
+    .start__title{
+        font-size: 50px;
+    }
+    
+    .start__info-dec{
+        font-size: 12px;
+        width: 190px;
+    }
+    
+    .start__info-name{
+        font-size: 14px;
+    }
+    
+    .start__link{
+        font-size: 17px;
+        width: 160px;
+        height: 55px;
+    }
+    
+    .start__link:hover{
+        font-size: 20px;
+    }
+    
+    .price__user-info {
+        width: 100px;
+    }
+    
+    /* ************* */
+    
+    .header__link {
+        font-size: 11px;
+        margin: 11px;
+    }
+    
+    .header__other-name {
+        font-size: 10px;
+    }
+    
+    .header__icon {
+        font-size: 13px;
+        width: 35px;
+        height: 35px;
+    }
+    
+    .header__box {
+        width: 74%;
+    }
+    
+}
+
+@media(max-width: 991px){
+    
+    .header__button{
+        display: block;
+    }
+    
+    .header__box{
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: 50%;
+        height: 100%;
+        background: #3B322D;
+        z-index: 2;
+        flex-direction: column;
+        padding: 30px;
+        transform: translateX(200%);
+        justify-content: flex-start;
+        align-items: center;
+    }
+    
+    .header__ul{
+        flex-direction: column;
+    }
+    
+    .header__other{
+        width: 100%;
+        justify-content: space-around;
+        margin-top: 20px;
+        margin-bottom: auto;
+    }
+    
+    .header__link{
+        font-size: 18px;
+        color: #EFE7E2 !important;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-decoration: none;
+        margin: 13px;
+        transition: 0.3s;
+    }
+    
+    .header__other-name{
+        font-size: 16px;
+        color: #EFE7E2;
+        margin-bottom: 0;
+        text-decoration: none;
+    }
+    
+    .header__icon{
+        font-size: 15px;
+        width: 40px;
+        height: 40px;
+        margin-left: 10px;
+    }
+    
+    .header__button-cancel{
+        display: flex;
+        margin-right: auto;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        margin-left: 20px;
+        border: none;
+        background: none;
+        color: #251D1A;
+        width: 100%;
+        justify-content: flex-start;
+    }
+    
+    /* *********************** */
+    
+    .start__img-box{
+        height: 580px;
+    }
+    
+    .start__title{
+        font-size: 30px;
+    }
+    
+    .start__info-dec{
+        font-size: 10px;
+        width: 150px;
+    }
+    
+    .start__info-name{
+        font-size: 12px;
+        width: 245px;
+    }
+    
+    .start__link{
+        font-size: 15px;
+        width: 150px;
+        height: 40px;
+    }
+    
+    .start__link:hover{
+        font-size: 18px;
+    }
+    
+    .info {
+        padding-top: 200px;
+        margin-top: -180px;
+    }
+    
+    .info__name{
+        font-size: 18px;
+    }
+    
+    .info__bio{
+        font-size: 11px;
+    }
+    
+    .info__icon{
+        width: 55px;
+        margin-top: 20px;
+    }
+    
+    .info{
+        height: 475px;
+    }
+    
+    /* *************** */
+    
+    .about__title{
+        font-size: 40px;
+        margin-top: 70px;
+    }
+    
+    .about__info {
+        font-size: 13px;
+        width: 450px;
+    }
+    
+    .about__link-1 {
+        font-size: 18px;
+        width: 335px;
+        height: 55px;
+    }
+    
+    .about__link-2 {
+        font-size: 18px;
+        width: 175px;
+        height: 55px;
+    }
+    
+    /* ****** */
+    
+    .price__user-name {
+        font-size: 18px;
+    }
+    
+    .price__user-info {
+        font-size: 9px;
+    }
+    
+    .price__user-time {
+        font-size: 10px;
+    }
+    
+    /* ****** */
+    
+    .testimonials__user-info {
+        font-size: 11px;
+    }
+    
+    .testimonials__user-link {
+        font-size: 11px;
+    }
+    
+    /* *********** */
+    
+    .price__user-info {
+        font-size: 9px;
+        width: 50px;
+    }
+    
+    /* *********** */
+    
+    .email__title {
+        font-size: 28px;
+    }
+    
+    .email__input-number, .email__input-text {
+        width: 200px;
+        height: 50px;
+    }
+    
+    .email__button {
+        width: 100px;
+        height: 50px;
+    }
+    
+    /* ************ */
+    
+    .map__contact {
+        width: 330px;
+        padding: 30px;
+        top: 60px;
+    }
+    
+    .map__name {
+        font-size: 37px;
+    }
+    
+    .map__link {
+        font-size: 16px;
+    }
+    
+    .map__icon {
+        width: 40px;
+        height: 40px;
+        margin-right: 17px;
+    }
+    
+    .map__box {
+        height: 550px;
+    }
+    
+    /* ************ */
+    
+    .footer__first {
+        height: 90px;
+        background: #251D1A;
+    }
+    
+    .footer__second {
+        height: 90px;
+    }
+    
+}
+
+@media(max-width: 858px){
+    
+    .header__other-name {
+        font-size: 12px;
+    }
+    
+    .header__icon {
+        font-size: 12px;
+        width: 35px;
+        height: 35px;
+    }
+    
+    .header__link {
+        font-size: 15px;
+        margin: 9px;
+    }
+    
+    .header__box {
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: 50%;
+        height: 100%;
+        background: #3B322D;
+        z-index: 2;
+        flex-direction: column;
+        padding: 13px;
+        transform: translateX(200%);
+    }
+    
+}
+
+@media(max-width: 767px){
+    
+    .start__img-box{
+        height: 410px;
+    }
+    
+    .start__text {
+        position: absolute;
+        top: 40px;
+        left: 0;
+        padding: 0px 20px;
+    }
+    
+    .start__title{
+        font-size: 26px;
+    }
+    
+    .start__link{
+        font-size: 12px;
+        width: 120px;
+        height: 36px;
+        margin: 20px;
+    }
+    
+    .start__info-dec{
+        font-size: 8px;
+        width: 125px;
+        height: 30px;
+    }
+    
+    .start__info-name {
+        font-size: 10px;
+        width: 160px;
+    }
+    
+    .start__title{
+        font-size: 25px;
+        width: 225px;
+    }
+    
+    .start__link:hover{
+        font-size: 15px;
+    }
+    
+    .info__row{
+        display: none;
+    }
+    
+    .info__format{
+        display: block;
+    }
+    
+    .info{
+        height: 440px;
+    }
+    
+    .about__link-1 {
+        font-size: 12px;
+        width: 275px;
+        height: 46px;
+    }
+    
+    .about__link-2 {
+        font-size: 12px;
+        width: 111px;
+        height: 46px;
+    }
+    
+    .about__links {
+        margin-top: 35px;
+    }
+    
+    .testimonials__user-none{
+        display: none;
+    }
+    
+    .testimonials__info {
+        font-size: 13px;
+        width: 400px;
+        margin-bottom: 35px;
+    }
+    
+    .title {
+        font-size: 35px;
+    }
+    
+    .testimonials {
+        padding-bottom: 45px;
+    }
+    
+    .price{
+        display: none;
+    }
+    
+    .price-format{
+        display: block;
+        padding-bottom: 140px;
+    }
+    
+    .price__block {
+        margin-top: 5px;
+    }
+    
+    .email__box {
+        padding: 25px 0;
+        margin-top: -76px;
+    }
+    
+    .email__title {
+        font-size: 19px;
+    }
+    
+    .email__info {
+        font-size: 12px;
+        margin-top: 0px;
+    }
+    
+    .email__form {
+        margin-top: 0;
+    }
+    
+    .email__input-number, .email__input-text {
+        width: 150px;
+        height: 35px;
+    }
+    
+    .email__button {
+        width: 80px;
+        height: 35px;
+        font-size: 12px;
+    }
+    
+    .email__end-text {
+        font-size: 8px;
+    }
+    
+    .email__end {
+        margin-top: 17px;
+    }
+    
+    .map{
+        display: none;
+    }
+    
+    .map-format{
+        display: flex;
+    }
+    
+    .map-format__row{
+        width: 100%;
+        margin: 0;
+    }
+    
+    .map__contact {
+        position: unset;
+        width: 100%;
+        height: 100%;
+    }
+    
+    .map-format__block{
+        padding: 0;
+    }
+    
+    .map__name {
+        font-size: 33px;
+    }
+    
+    .map__link {
+        font-size: 11px;
+        margin-left: 12px;
+        width: 88px;
+    }
+    
+    .map__icon {
+        width: 30px;
+        height: 30px;
+        margin-right: 0;
+        font-size: 10px
+    }
+    
+    .map-format__geo {
+        padding-bottom: 2px;
+    }
+    
+    /* ************* */
+    
+    .footer__first {
+        height: 80px;
+        background: #3B322D;
+    }
+    
+    .footer__second {
+        height: 80px;
+    }
+    
+    .footer__text-2, .footer__text-3 {
+        font-size: 9px;
+    }
+    
+    .footer__text-1{
+        font-size: 9px;
+    }
+    
+}
+
+@media(max-width: 656px){
+    
+    .header__other {
+        width: 100%;
+        justify-content: space-around;
+        margin-top: 20px;
+        margin-bottom: auto;
+        flex-wrap: wrap;
+    }
+    
+    .header__other-box1{
+        margin-bottom: 20px;
+    }
+    
+}
+
+@media(max-width: 575px){
+    
+    .testimonials__user-none2{
+        display: none;
+    }
+    
+    .testimonials__user-info{
+        font-size: 11px;
+        margin-top: 6px;
+        height: 90px;
+    }
+    
+    .testimonials__user-link {
+        margin-top: 0;
+    }
+
+    .testimonials__info {
+        font-size: 11px;
+        width: 270px;
+        margin-bottom: 30px;
+    }
+    
+    .title {
+        font-size: 28px;
+    }
+    
+    .testimonials__user{
+        width: 300px;
+        margin: auto;
+    }
+    
+    .testimonials__user-name {
+        font-size: 18px;
+    }
+    
+    .testimonials__user-info {
+        font-size: 13px;
+    }
+    
+    .testimonials__user-link {
+        font-size: 14px;
+    }
+    
+    .price__user-name {
+        font-size: 14px;
+        margin-top: 10px;
+    }
+    
+    .price__text {
+        margin-top: 0;
+    }
+    
+    .price__user-guap {
+        font-size: 12px;
+    }
+    
+    .price__user-time {
+        font-size: 10px;
+        margin-left: 16px;
+    }
+    
+}
+
+@media(max-width: 550px){
+    
+    .about__title{
+        font-size: 30px;
+        margin-top: 50px;
+    }
+    
+    .about__info {
+        font-size: 11px;
+        width: 350px;
+    }
+    
+    .footer__first {
+        height: 50px;
+    }
+    
+    .footer__second {
+        height: 60px;
+    }
+    
+    .header__link {
+        font-size: 12px;
+        margin: 4px;
+    }
+    
+    .header__other-name {
+        font-size: 9px;
+    }
+    
+}
+
+@media(max-width: 500px){
+    
+    .about__link-1 {
+        font-size: 10px;
+        width: 200px;
+        height: 40px;
+        margin-right: 10px;
+    }
+    
+    .about__link-2 {
+        font-size: 10px;
+        width: 93px;
+        height: 40px;
+    }
+    
+    .about__info {
+        font-size: 8px;
+        width: 210px;
+    }
+    
+    .about__title {
+        font-size: 25px;
+        margin-top: 35px;
+    }
+    
+    .about__row {
+        margin-top: 27px;
+    }
+    
+    .start__text{
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+    
+    .start__info{
+        margin-top: 30px;
+    }
+    
+    .start__img-box {
+        height: 310px;
+    }
+    
+    .start__img{
+        object-fit: cover;
+    }
+    
+    .price__row {
+        margin-top: 20px;
+    }
+    
+    
+}
+
+@media(max-width: 443px){
+    
+    .email__title {
+        font-size: 15px;
+    }
+    
+    .email__info {
+        font-size: 10px;
+        margin-top: 0px;
+    }
+    
+    .email__form {
+        margin-top: 0;
+        flex-wrap: wrap;
+        margin: auto 10px;
+        justify-content: space-evenly;
+    }
+    
+    .email__button {
+        margin-top: 15px;
+    }
+    
+}
+
+@media(max-width: 410px){
+    
+    .testimonials__user {
+        width: 220px;
+    }
+    
+    .testimonials__user-name {
+        font-size: 16px;
+    }
+    
+    .testimonials__user-info {
+        font-size: 11px;
+    }
+    
+    .testimonials__user-link {
+        font-size: 12px;
+    }
+    
+    .testimonials {
+        padding-bottom: 28px;
+    }
+    
+    .map__contact {
+        padding: 20px 10px;
+    }
+    
+    .map__block {
+        margin-top: 19px;
+    }
+    
+    .map__name {
+        font-size: 27px;
+    }
+    
+    .map__link {
+        font-size: 9px;
+        margin-left: 12px;
+        width: 88px;
+    }
+    
+}
+
+@media(max-width: 375px){
+    
+    .email__input-number, .email__input-text {
+        width: 121px;
+        height: 30px;
+    }
+    
+    ::placeholder{
+        font-size: 13px;
+        margin: auto 0;
+    }
+    
+    .email__button {
+        height: 30px;
+        font-size: 10px;
+    }
+    
+    .email__title {
+        font-size: 13px;
+    }
+    
+    .email__box {
+        padding: 17px 0;
+        margin-top: -76px;
+    }
+    
+    .email__end-text {
+        font-size: 6px;
+    }
+    
+    .header__icon {
+        font-size: 10px;
+        width: 30px;
+        height: 30px;
+    }
+    
+}
